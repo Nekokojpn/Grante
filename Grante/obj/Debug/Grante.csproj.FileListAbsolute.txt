@@ -1,0 +1,40 @@
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.exe.config
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csprojAssemblyReference.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\MainWindow.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\App.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante_MarkupCompile.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante_MarkupCompile.lref
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\MainWindow.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.g.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.Properties.Resources.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.GenerateResource.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.CoreCompileInputs.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Simple Styles.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\mainPlayer.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\mainPlayer.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.exe.config
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\bin\Debug\Grante.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csprojAssemblyReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Simple Styles.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\mainPlayer.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\MainWindow.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\App.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante_MarkupCompile.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante_MarkupCompile.lref
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\mainPlayer.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\MainWindow.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.g.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.Properties.Resources.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.GenerateResource.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.CoreCompileInputs.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Interop.WMPLib.dll
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.ResolveComReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Interop.WMPLib.dll
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\Grante\Grante\obj\Debug\Grante.csproj.ResolveComReference.cache

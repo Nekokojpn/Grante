@@ -1,0 +1,36 @@
+﻿<setting title="テストデータ">
+<&;>
+ <bgm src="test\bgm\bgm.mp3" volume="10">
+<img src="\test\imgs\ef616b40809e5037120d667df5bdb59a.jpg" anim="FadeIn" duration="1000" wait="false">
+<t name="x">いい天気だなぁ～～。</t>
+<t name="x">ちょっと散歩にでも行ってみるか。</t>
+<img src="\test\imgs\maxresdefault.jpg" anim="FadeIn" duration="1000" wait="true">
+<t>あなたは散歩に行くことにしました。</t>
+<img src="\test\imgs\87aad9d8f126ea2a4636ff30edb4b81e.jpg" anim="FadeIn" duration="3000" wait="true">
+<t>近くの公園に来てみた。</t>
+<t>近くのベンチに座っていると・・・</t>
+<character name="女の子" src="test\character\女の子\立ち絵01_困.png" anim="FadeIn" duration="500" wait="true" xpos="-1000" ypos="-2000">
+<t name="女の子">「こんにちは。今日はとってもいい天気ね。」</t>
+<t name="x">「そうですね。いい天気です。」</t>
+<character name="女の子" src="test\character\女の子\立ち絵01_困.png" anim="CrossFade" duration="500" wait="true">
+<t name="女の子">「でも、午後から雨だそうよ。」</t>
+<t name="x">「そうなんですか・・・。知らなかったです。ありがとうございます。」</t>
+<t name="女の子">「ここの湖ってとってもきれいよね。」</t>
+<t name="x">「ええ。そうですね。昔からずっと変わらないままきれいです。」</t>
+<t name="女の子">「子どものころから知っているの？」</t>
+<t name="x">「はい。ずっとここに住んでいるもので。今は一人暮らしなんですが。」</t>
+<t name="女の子">「一人暮らし？それはすごいね。大変じゃない？」</t>
+<t name="x">「ええ、まぁ大変ですが、とっても充実していますよ。」</t>
+<character name="女の子" src="test\character\女の子\立ち絵01_困2.png" anim="CrossFade" duration="500" wait="true">
+<t name="女の子">「あら・・・。雨が降ってきたようね。」</t>
+<t name="x">「ほんとうだ・・・早めに帰らなきゃな・・・」</t>
+<t name="女の子">「傘とか持ってきてればよかったかしら・・・」</t>
+<t name="x">「持ってないんです？」</t>
+<t name="女の子">「ええ。こんな早く降るとは思わなかったのよね。」</t>
+<t name="x">「ぼくのうちすぐそこなんです。よかったら雨宿りついでに上がっていきませんか？」</t>
+<character name="女の子" src="test\character\女の子\立ち絵01b_通常2.png" anim="CrossFade" duration="500" wait="true">
+<t name="女の子">「あらそうなの。ならお言葉に甘えようかしら。」</t>
+<t name="syamu"></t>
+<t name="syamu"></t>
+<t name="syamu"></t>
+</&;>

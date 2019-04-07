@@ -1,0 +1,7 @@
+﻿<setting title="テストデータ">
+<&;>
+ //<bgm src="test\bgm\bgm.mp3" volume="10">
+<img src="\test\imgs\g.png" anim="FadeIn" duration="1000" wait="false">
+<character name="女の子" src="test\character\女の子\ゆかりさん立ち絵ver1.00.png" anim="FadeIn" duration="500" wait="true" xpos="-2000" ypos="-5000">
+<t name="テスト">表示テスト</t>
+</&;>

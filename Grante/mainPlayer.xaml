@@ -1,0 +1,31 @@
+﻿<Page x:Name="playerPage" x:Class="Grante.mainPlayer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Grante"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="mainPlayer" Loaded="playerPage_Loaded">
+
+    <Grid>
+        <Canvas x:Name="mainCanvas" HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="1280">
+            <Canvas x:Name="uprCanvas" Height="520" Width="1280" MouseLeftButtonDown="uprCanvas_MouseLeftButtonDown"/>
+            <Canvas x:Name="msgCanvas" Height="200" Canvas.Top="520" Width="1280" MouseLeftButtonDown="msgCanvas_MouseLeftButtonDown">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Offset="0" Color="#4C000000"/>
+                        <GradientStop Color="Black" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <WrapPanel x:Name="_mW" Height="111" Canvas.Left="313" Canvas.Top="49" Width="815">
+                    <TextBlock TextWrapping="Wrap" Text="見本テスト" Foreground="White" FontSize="24" FontFamily="Yu Gothic Light"/>
+
+
+
+                </WrapPanel>
+                <TextBlock x:Name="chara_Tex" TextWrapping="Wrap" Foreground="White" FontFamily="Yu Mincho" FontSize="24" Canvas.Left="263.297" Canvas.Top="10.55"/>
+            </Canvas>
+        </Canvas>
+    </Grid>
+</Page>
